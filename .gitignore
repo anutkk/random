@@ -1,3 +1,5 @@
 google-foobar/*.jpg
 google-foobar/*.mp4
 google-kickstart/*
+*.zip
+Covid19/CORD-19-research-challenge/*
