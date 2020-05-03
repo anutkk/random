@@ -7,3 +7,5 @@ Covid19/CORD-19-research-challenge/*
 # Byte-compiled / optimized / DLL files
 *.py[cod]
 *$py.class
+
+computer-vision/alignment/*
