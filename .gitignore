@@ -3,3 +3,7 @@ google-foobar/*.mp4
 google-kickstart/*
 *.zip
 Covid19/CORD-19-research-challenge/*
+
+# Byte-compiled / optimized / DLL files
+*.py[cod]
+*$py.class
